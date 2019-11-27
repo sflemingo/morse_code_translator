@@ -1,6 +1,6 @@
 #!/bin/bash
-morse2englishJSON=morse_to_english.json
-english2morseJSON=english_to_morse.json
+morse2englishJSON=data/morse_to_english.json
+english2morseJSON=data/english_to_morse.json
 
 # prompts for a string in morse code
 # then prints it in english
